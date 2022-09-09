@@ -1,0 +1,4 @@
+#Fri Sep 09 16:58:00 BRT 2022
+base.0=/home/vex/Área de Trabalho/Projetos/Flame/mario_flame/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
