@@ -1,4 +1,4 @@
-# mario_flame
+# mario_flutter
 
 A new Flutter project.
 
